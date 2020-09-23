@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Aug 04 12:32:47 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0173-babf-50ba-000006719e38 
+on database directory D:\Documentos\NetBeansProjects\Inventarios\dist\BD with class loader sun.misc.Launcher$AppClassLoader@7852e922 
+Loaded from file:/D:/Documentos/NetBeansProjects/Inventarios/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=D:\Documentos\NetBeansProjects\Inventarios\dist
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
